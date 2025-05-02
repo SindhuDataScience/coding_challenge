@@ -51,11 +51,11 @@ pytest tests/test_profile_service.py
 
 ## What'd I'd like to improve on...
 
-This project I worked on is a good start to build an API with essential code for endpoints, loggers for catching errors and some basic testcases. There is lot of scope for improvement as mentioned below:
+This project I worked on is a good start to build an API with essential code for endpoints, loggers for catching errors and some basic testcases. But there is good scope for improvement as mentioned below:
 
--> Include custom exceptions for API errors that can provide the right reasons in case of failures
--> Add more testcases to cover all the edge case scenarios
--> Add credentials to API calls to enhance security
--> Use Asynchronous requests if need be 
--> Code Modularity can be improved for better maintenance of the project
+* Include custom exceptions for API errors that can provide the right reasons in case of failures <br/>
+* Add more testcases to cover all the edge case scenarios <br/>
+* Add credentials to API calls to enhance security <br/>
+* Use Asynchronous requests if need be <br/>
+* Code Modularity can be improved for better maintenance of the project
 
